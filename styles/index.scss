@@ -7,11 +7,13 @@
   box-sizing: border-box;
   font-family: 'Montserrat', sans-serif;
 }
+
 body {
   display: flex;
   justify-content: center;
   background-color: $background-color;
   align-items: center;
+  height: 100vh;
 }
 
 .price-card {
