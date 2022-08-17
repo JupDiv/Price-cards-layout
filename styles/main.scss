@@ -10,6 +10,18 @@
     height: 105px;
     justify-content: center;
     align-items: center;
+
+    &_green {
+      background-color: $first-block;
+    }
+
+    &_blue {
+      background-color: $second-block;
+    }
+
+    &_orange {
+      background-color: $third-block;
+    }
   }
 
   &__price-title {
@@ -52,5 +64,27 @@
 
   &__checkmark {
     margin: 0 22px;
+
+    &_green {
+      display: inline-block;
+      background-image: url('https://gromcode.s3.eu-central-1.amazonaws.com/front-end/html-css/lesson+25/verification-checkmark-symbol_green.png');
+      background-repeat: no-repeat;
+      width: 16px;
+      height: 13px;
+    }
+    &_blue {
+      display: inline-block;
+      background-image: url('https://gromcode.s3.eu-central-1.amazonaws.com/front-end/html-css/lesson+25/verification-checkmark-symbol_blue.png');
+      background-repeat: no-repeat;
+      width: 16px;
+      height: 13px;
+    }
+    &_orange {
+      display: inline-block;
+      background-image: url('https://gromcode.s3.eu-central-1.amazonaws.com/front-end/html-css/lesson+25/verification-checkmark-symbol_orange.png');
+      background-repeat: no-repeat;
+      width: 16px;
+      height: 13px;
+    }
   }
 }

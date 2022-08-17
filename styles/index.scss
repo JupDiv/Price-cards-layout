@@ -2,7 +2,6 @@
 @import 'header.scss';
 @import 'main.scss';
 @import 'footer.scss';
-@import 'common.scss';
 
 * {
   box-sizing: border-box;
@@ -12,7 +11,7 @@ body {
   display: flex;
   justify-content: center;
   background-color: $background-color;
-  padding: 64px 0;
+  align-items: center;
 }
 
 .price-card {

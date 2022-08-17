@@ -14,5 +14,17 @@
     font-size: 14px;
     color: $white;
     line-height: 17px;
+
+    &_green {
+      background-color: $first-block;
+    }
+
+    &_blue {
+      background-color: $second-block;
+    }
+
+    &_orange {
+      background-color: $third-block;
+    }
   }
 }
