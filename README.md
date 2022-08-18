@@ -3,6 +3,7 @@
 <h1><a href="https://jupdiv.github.io/Price-cards-layout/">Site link</a></h1>
 
 Layout supports mobile (up-to-400) and desktop (up-to-1400) versions
+<hr>
 
 The tech stack is:
 <ul>
@@ -12,6 +13,8 @@ The tech stack is:
   <li>Sass (Scss)</li>  
   <li>BEM methodology</li>   
 </ul>
+
+<hr>
 
 Author:
 
