@@ -3,7 +3,7 @@
 <h1><a href="https://jupdiv.github.io/Price-cards-layout/">Site link</a></h1>
 
 Layout supports mobile (up-to-400) and desktop (up-to-1400) versions
-<hr>
+<hr style="color: black">
 
 <h3>The tech stack is:</h3>
 <ul>
