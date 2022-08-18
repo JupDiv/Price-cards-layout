@@ -5,7 +5,7 @@
 Layout supports mobile (up-to-400) and desktop (up-to-1400) versions
 <hr>
 
-The tech stack is:
+<h3>The tech stack is:</h3>
 <ul>
   <li>HTML5</li>
   <li>CSS3</li>  
